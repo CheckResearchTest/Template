@@ -31,3 +31,8 @@ Describe each step of the experiment
 ## Results
 
 Describe your results
+
+## Licenses
+
+The Licenses can be found in the sub-directories.
+The license of code and data by the authors may vary from the license defined in the terms of use of CheckResearch.org.
