@@ -2,7 +2,7 @@
 
 ## HOWTO
 
-Please put a complete documentation of the experiment in this file
+Please put a complete English documentation of the experiment in this file
 
 Use [Markdown](https://guides.github.com/features/mastering-markdown/)!
 
